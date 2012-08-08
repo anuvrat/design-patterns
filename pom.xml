@@ -3,4 +3,12 @@
   <groupId>com.singhanuvrat</groupId>
   <artifactId>design-patterns</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.projectlombok</groupId>
+  		<artifactId>lombok</artifactId>
+  		<version>0.11.2</version>
+  		<scope>provided</scope>
+  	</dependency>
+  </dependencies>
 </project>
